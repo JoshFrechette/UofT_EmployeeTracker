@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "json package to run console display, CLI, and mySQL mgmt",
+  "main": "emp_tracker.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwistedPixels/Employee_Tracker.git"
+  },
+  "keywords": [
+    "CMS",
+    "mySQL",
+    "CLI"
+  ],
+  "author": "Josh Fréchette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwistedPixels/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/TwistedPixels/Employee_Tracker#readme"
+}
