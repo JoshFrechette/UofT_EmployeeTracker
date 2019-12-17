@@ -20,12 +20,10 @@ const questions = [
 ];
 let start =
 async function userStart(){
-    console.log("userStart")
         await inquirer  
         .prompt(questions)
-        // console.log("questions asked")
         .then(async function(ans) {
-            // console.log(ans)
+            console.log(ans)
             if (ans.actions === 'View all employees'){
                 viewEmpls()
             }
@@ -52,7 +50,6 @@ async function userStart(){
     };
 
 function viewEmpls(){
-    console.log("view employee")
 
 }
 
