@@ -4,12 +4,31 @@ Week 12
 
 # Directions for the project
 
+Through the CLI, the user will be prmpted to select which action they wish to take. The user can:
+- View all employees
+- View all company roles
+- View all company departments
+- Add an employee
+- Add a company role
+- Add a company department
+- Update an employee role
+
+If the user wishes to add an attribute, they need the respective id number, seen through viewing the relevant table.
+
+To update an employee role, the user needs the employee number and the role's id number.
+
 # Deployment
 
-Heroku
-https://joshfdesign-employee-tracker.herokuapp.com/
+https://github.com/TwistedPixels/Employee_Tracker.git
+
 
 # Usage
+
+Through Visual Code CLI.
+
+
+![Browser Deployment of Employee Tracker App](Documentation/Employee_Tracker.png)
+
 
 # License
 
