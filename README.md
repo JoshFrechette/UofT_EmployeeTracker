@@ -6,6 +6,9 @@ Week 12
 
 # Deployment
 
+Heroku
+https://joshfdesign-employee-tracker.herokuapp.com/
+
 # Usage
 
 # License
