@@ -13,13 +13,13 @@ CREATE TABLE employees (
 );
 
 CREATE TABLE roles (
-    role_id AUTO_INCREMENT INT NOT NULL,
+    role_id INT NOT NULL,
     title VARCHAR(30),
-    salary DECIMAL(10,4) NOT NULL,
+    salary DECIMAL(10,3) NOT NULL,
     department_id INT NOT NULL
 );
 
 CREATE TABLE departments (
-    department_id AUTO_INCREMENT INT NOT NULL,
+    department_id INT NOT NULL,
     department VARCHAR(30)
 );
