@@ -5,7 +5,7 @@
   "main": "emp_tracker.js",
   "dependencies": {
     "console.table": "^0.10.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "inquirer": "^7.0.1",
     "install": "^0.13.0",
     "mysql": "^2.17.1"
